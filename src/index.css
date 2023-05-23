@@ -225,6 +225,7 @@ Hero
 .hero-btn {
   padding: 0.9rem 1.6rem;
   font-size: 1.25rem;
+  border-radius: 40px;
   background: var(--clr-white);
   color: var(--clr-primary-5);
 }
